@@ -1,5 +1,5 @@
 <?php
-namespace DaGrFr;
+namespace Dagrfr;
 
 /**
  * SplClassLoader implementation that implements the technical interoperability
