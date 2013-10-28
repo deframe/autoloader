@@ -1,0 +1,27 @@
+{
+    "name": "dagrfr/autoloader",
+    "description": "Basic SPL class autoloader.",
+    "type": "library",
+    "keywords": [
+        "php",
+        "spl",
+        "autoload"
+    ],
+    "homepage": "https://github.com/deframe/autoloader/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Frame",
+            "email": "deframe@cryst.co.uk",
+            "role": "lead"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "src/SplClassLoader.php"
+        ]
+    }
+}
